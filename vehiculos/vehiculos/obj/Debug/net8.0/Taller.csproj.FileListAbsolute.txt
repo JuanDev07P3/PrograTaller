@@ -1,0 +1,7 @@
+C:\Users\juana\OneDrive\Desktop\Universidad\Progra II\Parcial progra II\vehiculos\vehiculos\obj\Debug\net8.0\Taller.csproj.AssemblyReference.cache
+C:\Users\juana\OneDrive\Desktop\Universidad\Progra II\Parcial progra II\vehiculos\vehiculos\obj\Debug\net8.0\Taller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juana\OneDrive\Desktop\Universidad\Progra II\Parcial progra II\vehiculos\vehiculos\obj\Debug\net8.0\Taller.AssemblyInfoInputs.cache
+C:\Users\juana\OneDrive\Desktop\Universidad\Progra II\Parcial progra II\vehiculos\vehiculos\obj\Debug\net8.0\Taller.AssemblyInfo.cs
+C:\Users\juana\OneDrive\Desktop\Universidad\Progra II\Parcial progra II\vehiculos\vehiculos\obj\Debug\net8.0\Taller.csproj.CoreCompileInputs.cache
+C:\Users\juana\OneDrive\Desktop\Universidad\Progra II\Parcial progra II\vehiculos\vehiculos\obj\Debug\net8.0\Taller.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\juana\OneDrive\Desktop\Universidad\Progra II\Parcial progra II\vehiculos\vehiculos\obj\Debug\net8.0\Taller.MvcApplicationPartsAssemblyInfo.cache
