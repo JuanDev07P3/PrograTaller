@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\controllers\\tallercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\controllers\\tallercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\models\\tallerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\models\\tallerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\controllers\\repuestoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\controllers\\repuestoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\models\\repuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\models\\repuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\models\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\models\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\controllers\\mecanicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\controllers\\mecanicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\models\\mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\models\\mecanico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|c:\\users\\juana\\onedrive\\desktop\\universidad\\progra ii\\parcial progra ii\\taller\\taller\\taller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24339099-18FD-43F1-AD14-FAD0E62A067B}|Taller\\Taller.csproj|solutionrelative:taller\\taller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "Taller\\Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "Taller\\Controllers\\FacturasController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:36:01.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "Taller\\Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Models\\Factura.cs",
+              "RelativeToolTip": "Taller\\Models\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:35:28.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepuestosController.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Controllers\\RepuestosController.cs",
+              "RelativeDocumentMoniker": "Taller\\Controllers\\RepuestosController.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Controllers\\RepuestosController.cs",
+              "RelativeToolTip": "Taller\\Controllers\\RepuestosController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:34:40.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repuesto.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Models\\Repuesto.cs",
+              "RelativeDocumentMoniker": "Taller\\Models\\Repuesto.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Models\\Repuesto.cs",
+              "RelativeToolTip": "Taller\\Models\\Repuesto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:33:56.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TurnosController.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Controllers\\TurnosController.cs",
+              "RelativeDocumentMoniker": "Taller\\Controllers\\TurnosController.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Controllers\\TurnosController.cs",
+              "RelativeToolTip": "Taller\\Controllers\\TurnosController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:32:58.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehiculosController.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Controllers\\VehiculosController.cs",
+              "RelativeDocumentMoniker": "Taller\\Controllers\\VehiculosController.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Controllers\\VehiculosController.cs",
+              "RelativeToolTip": "Taller\\Controllers\\VehiculosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:16:54.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TallerController.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Controllers\\TallerController.cs",
+              "RelativeDocumentMoniker": "Taller\\Controllers\\TallerController.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Controllers\\TallerController.cs",
+              "RelativeToolTip": "Taller\\Controllers\\TallerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:37:14.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TallerInfo.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Models\\TallerInfo.cs",
+              "RelativeDocumentMoniker": "Taller\\Models\\TallerInfo.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Models\\TallerInfo.cs",
+              "RelativeToolTip": "Taller\\Models\\TallerInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:36:41.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Models\\Turno.cs",
+              "RelativeDocumentMoniker": "Taller\\Models\\Turno.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Models\\Turno.cs",
+              "RelativeToolTip": "Taller\\Models\\Turno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:32:40.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Taller\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Taller\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:29:05.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Taller\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Models\\Cliente.cs",
+              "RelativeToolTip": "Taller\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:27:51.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "Taller\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "Taller\\Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:25:56.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Models\\Servicio.cs",
+              "RelativeDocumentMoniker": "Taller\\Models\\Servicio.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Models\\Servicio.cs",
+              "RelativeToolTip": "Taller\\Models\\Servicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:25:34.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MecanicosController.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Controllers\\MecanicosController.cs",
+              "RelativeDocumentMoniker": "Taller\\Controllers\\MecanicosController.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Controllers\\MecanicosController.cs",
+              "RelativeToolTip": "Taller\\Controllers\\MecanicosController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:22:06.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mecanico.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Models\\Mecanico.cs",
+              "RelativeDocumentMoniker": "Taller\\Models\\Mecanico.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Models\\Mecanico.cs",
+              "RelativeToolTip": "Taller\\Models\\Mecanico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:21:57.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Models\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Taller\\Models\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Models\\Vehiculo.cs",
+              "RelativeToolTip": "Taller\\Models\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:57:20.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Taller",
+              "DocumentMoniker": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Taller.csproj",
+              "RelativeDocumentMoniker": "Taller\\Taller.csproj",
+              "ToolTip": "C:\\Users\\juana\\OneDrive\\Desktop\\Universidad\\Progra II\\Parcial progra II\\Taller\\Taller\\Taller.csproj",
+              "RelativeToolTip": "Taller\\Taller.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T00:50:19.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+	"info": {
+		"_postman_id": "7d5e3911-22aa-4091-9fbd-18052b24dec4",
+		"name": "TallerMecanico",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44831250",
+		"_collection_link": "https://juanjose-8688242.postman.co/workspace/Juan-jose's-Workspace~b8bd2dac-ae6e-4532-890e-c69dfc36c26d/collection/44831250-7d5e3911-22aa-4091-9fbd-18052b24dec4?action=share&source=collection_link&creator=44831250"
+	},
+	"item": [
+		{
+			"name": "clientes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5041/api/Clientes",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5041",
+					"path": [
+						"api",
+						"Clientes"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "facturas",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "mecanicos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "repuestos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "servicios",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "taller",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "turnos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "vehiculos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
